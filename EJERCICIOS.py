@@ -8,7 +8,7 @@ class Calificaciones:
         self.edad=edad
         self.M1=M1
         self.M2=M2
-        self.M3=M3
+        self.M3=M3 
     def Datos(self):
         print("Nombre:", self.Nombre)
         print("Edad:", self.edad)
